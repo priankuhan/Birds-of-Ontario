@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">&quot;Ontario Birds&quot;</string>
+    <string name="action_settings">Beginner mode</string><string name="Beginner">Beginner Mode</string>
+    <string name="Question">What is the name of this bird?</string>
+    <string name="Submit">Submit</string>
+    <string name="Audio">Audio</string>
+    <string name="General">All Birds</string>
+    <string name="City">City Birds</string>
+    <string name="Wetland">Wetland Birds</string>
+    <string name="BoP">Birds of Prey</string>
+    <string name="Woodpeckers">Woodpeckers</string>
+    <string name="Timer">TIME</string>
+    
+
+</resources>
